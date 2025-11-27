@@ -1,4 +1,4 @@
-[{
+[{"id": "0",
   "name": "Macallan 12",
   "type": "Single Malt",
   "region": "Speyside",
@@ -18,7 +18,7 @@
   "score" :""
 }
 ,
-{
+{"id": "1",
   "name": "Macallan 15",
   "type": "Single Malt",
   "region": "Speyside",
@@ -36,5 +36,43 @@
   "weight" :"",
   "Total_review":"",
   "score" :""
+},
+{"id": "2",
+  "name": "Macallan 18",
+  "type": "Single Malt",
+  "region": "Speyside",
+  "abv": 40,
+  "info" : "",
+  "flavor_fruit" : "",
+  "flavor_sweet" : "",
+  "flavor_flower" : "",
+  "flavor_spices" : "",
+  "flavor_grain" : "",
+  "flavor_tangerines" : "",
+  "flavor_peat" : "",
+  "flavor_woody" : "",
+  "color" :"",
+  "weight" :"",
+  "Total_review":"",
+  "score" :""
 }
+,
+{"id": "3",
+  "name": "Macallan 21",
+  "type": "Single Malt",
+  "region": "Speyside",
+  "abv": 40,
+  "info" : "",
+  "flavor_fruit" : "",
+  "flavor_sweet" : "",
+  "flavor_flower" : "",
+  "flavor_spices" : "",
+  "flavor_grain" : "",
+  "flavor_tangerines" : "",
+  "flavor_peat" : "",
+  "flavor_woody" : "",
+  "color" :"",
+  "weight" :"",
+  "Total_review":"",
+
 ]
